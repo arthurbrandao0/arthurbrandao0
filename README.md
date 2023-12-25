@@ -30,14 +30,14 @@ I have contributed to the success of projects for clients in various domains, su
   <a href="https://github.com/arthurbrandao0/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlo2222&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbrandao0&layout=compact"
     />
   </a>
   <a href="https://github.com/arthurbrandao0/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=marlo2222&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=arthurbrandao0&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>

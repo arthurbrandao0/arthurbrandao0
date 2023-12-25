@@ -33,6 +33,8 @@ I have contributed to the success of projects for clients in various domains, su
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbrandao0&layout=compact"
     />
   </a>
+
+  <!--
   <a href="https://github.com/arthurbrandao0/github-readme-stats">
     <img
       align="center"
@@ -40,5 +42,6 @@ I have contributed to the success of projects for clients in various domains, su
       src="https://github-readme-stats.vercel.app/api?username=arthurbrandao0&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
+  -->
 </p>
 

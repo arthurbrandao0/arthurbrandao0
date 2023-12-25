@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Arthur Brandao, from Brazil and I'm a QA Engineer.
 
 <!--
 **arthurbrandao0/arthurbrandao0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+As a QA Engineer, I work on projects that require high-quality testing and assurance of software systems and applications. I have more than 9 years of experience in the field, as well as a CTFL certification and an MBA in Software Quality Management.
+
+My core competencies include planning and executing test cases and test plans, using tools such as Azure DevOps and Jira. I also have expertise in test automation, using languages and frameworks such as Python, Selenium, Cypress, and Behave, but I feel comfortable working with other languages, such as Java, Ruby and others. 
+
+I have contributed to the success of projects for clients in various domains, such as e-commerce, banking, and credit solutions. My mission is to ensure the delivery of reliable, secure, and user-friendly software products that meet the expectations and needs of the end-users and stakeholders.
